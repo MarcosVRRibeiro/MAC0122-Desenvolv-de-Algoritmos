@@ -1,0 +1,10 @@
+# Este arquivo contem as notas de alguns alunos
+# Formato: NUSP NOTA
+10056789 7.5
+10104521 6.3
+09126349 5.8
+11023934 9.1
+# Lembrete: corrigir as notas abaixo
+10234981 8.9
+10238797 3.4
+# Fim da lista de notas

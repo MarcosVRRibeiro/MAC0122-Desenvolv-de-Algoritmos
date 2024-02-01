@@ -1,0 +1,8 @@
+# Esta linha nao deve ser impressa
+# Primeira linha
+1. ele tinha a faca e o queijo
+# Segunda linha
+2. na mão, #
+# Terceira linha
+3. mas preferiu a goiabada
+# Fim
