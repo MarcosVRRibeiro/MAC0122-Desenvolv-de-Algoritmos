@@ -1,0 +1,22 @@
+Essa e a linha 0
+Essa e a linha 1
+Essa e a linha 2
+Essa e a linha 3
+Essa e a linha 4, ultima.
+ char x, nums[MAX_PATH];  
+            int i, j, total=0, casa;
+            printf("\ntotalantesnates: .%d.\n", total);
+
+            for (i=0; i+passo < strlen(input); i++) {
+                nums[i]=input[passo+i+1];     
+                } 
+
+            int xint;
+            for(i=0; i < strlen(x); i++) {
+                casa = nums[i]-'0';
+                printf("\ntotalantes: .%d.\n", total);
+                for(j=0; j<strlen(x); j++) {casa = casa*10;}
+                total = total + casa;
+                printf("\ntotal: .%d.\n", total);
+
+            }
